@@ -1,0 +1,14 @@
+D:\CSharp\Thesis\getCarID\bin\Debug\getCarID.exe
+D:\CSharp\Thesis\getCarID\bin\Debug\getCarID.pdb
+D:\CSharp\Thesis\getCarID\bin\Debug\Thesis.exe
+D:\CSharp\Thesis\getCarID\bin\Debug\Thesis.pdb
+D:\CSharp\Thesis\getCarID\obj\Debug\InterpolationByMinute.csprojResolveAssemblyReference.cache
+D:\CSharp\Thesis\getCarID\obj\Debug\getCarID.exe
+D:\CSharp\Thesis\getCarID\obj\Debug\getCarID.pdb
+D:\CSharp\Thesis\InterpolationByMinute\obj\Debug\getCarID.exe
+D:\CSharp\Thesis\InterpolationByMinute\obj\Debug\getCarID.pdb
+D:\CSharp\Thesis\InterpolationByMinute\bin\Debug\getCarID.exe
+D:\CSharp\Thesis\InterpolationByMinute\bin\Debug\getCarID.pdb
+D:\CSharp\Thesis\InterpolationByMinute\bin\Debug\Thesis.exe
+D:\CSharp\Thesis\InterpolationByMinute\bin\Debug\Thesis.pdb
+D:\CSharp\Thesis\InterpolationByMinute\obj\Debug\InterpolationByMinute.csprojResolveAssemblyReference.cache

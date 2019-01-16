@@ -1,0 +1,17 @@
+D:\CSharp\Thesis\Thesis\bin\Debug\Thesis.exe
+D:\CSharp\Thesis\Thesis\bin\Debug\Thesis.pdb
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.csprojResolveAssemblyReference.cache
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.Form1.resources
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.Properties.Resources.resources
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.csproj.GenerateResource.Cache
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.exe
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.pdb
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\Thesis\bin\Debug\Thesis.exe
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\Thesis\bin\Debug\Thesis.pdb
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\Thesis\obj\Debug\Thesis.csprojAssemblyReference.cache
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\Thesis\obj\Debug\Thesis.Form1.resources
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\Thesis\obj\Debug\Thesis.Properties.Resources.resources
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\Thesis\obj\Debug\Thesis.csproj.GenerateResource.cache
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\Thesis\obj\Debug\Thesis.csproj.CoreCompileInputs.cache
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\Thesis\obj\Debug\Thesis.exe
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\Thesis\obj\Debug\Thesis.pdb

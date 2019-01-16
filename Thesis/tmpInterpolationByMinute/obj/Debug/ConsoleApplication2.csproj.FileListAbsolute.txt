@@ -1,0 +1,5 @@
+D:\CSharp\Thesis\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\CSharp\Thesis\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\CSharp\Thesis\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\CSharp\Thesis\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\CSharp\Thesis\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

@@ -1,0 +1,5 @@
+D:\CSharp\Thesis\Thiessen\bin\Debug\Thiessen.exe
+D:\CSharp\Thesis\Thiessen\bin\Debug\Thiessen.pdb
+D:\CSharp\Thesis\Thiessen\obj\Debug\Thiessen.exe
+D:\CSharp\Thesis\Thiessen\obj\Debug\Thiessen.pdb
+D:\CSharp\Thesis\Thiessen\obj\Debug\Thiessen.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\CSharp\Thesis\P-median\bin\Release\P-median.exe
+D:\CSharp\Thesis\P-median\bin\Release\P-median.pdb
+D:\CSharp\Thesis\P-median\obj\Release\P-median.exe
+D:\CSharp\Thesis\P-median\obj\Release\P-median.pdb

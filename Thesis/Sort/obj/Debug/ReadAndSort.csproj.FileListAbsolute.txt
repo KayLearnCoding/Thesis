@@ -1,0 +1,5 @@
+D:\CSharp\Thesis\Sort\bin\Debug\Sort.exe
+D:\CSharp\Thesis\Sort\bin\Debug\Sort.pdb
+D:\CSharp\Thesis\Sort\obj\Debug\Sort.exe
+D:\CSharp\Thesis\Sort\obj\Debug\Sort.pdb
+D:\CSharp\Thesis\Sort\obj\Debug\ReadAndSort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\CSharp\Thesis\TripCube\bin\Debug\TripCube.exe
+D:\CSharp\Thesis\TripCube\bin\Debug\TripCube.pdb
+D:\CSharp\Thesis\TripCube\obj\Debug\TripCube.csprojResolveAssemblyReference.cache
+D:\CSharp\Thesis\TripCube\obj\Debug\TripCube.exe
+D:\CSharp\Thesis\TripCube\obj\Debug\TripCube.pdb
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\TripCube\bin\Debug\TripCube.exe
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\TripCube\bin\Debug\TripCube.pdb
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\TripCube\obj\Debug\TripCube.csprojAssemblyReference.cache
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\TripCube\obj\Debug\TripCube.csproj.CoreCompileInputs.cache
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\TripCube\obj\Debug\TripCube.exe
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\TripCube\obj\Debug\TripCube.pdb

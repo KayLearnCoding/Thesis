@@ -1,0 +1,8 @@
+D:\CSharp\Thesis\Thesis\bin\Debug\Thesis.exe
+D:\CSharp\Thesis\Thesis\bin\Debug\Thesis.pdb
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.csprojResolveAssemblyReference.cache
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.Form1.resources
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.Properties.Resources.resources
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.csproj.GenerateResource.Cache
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.exe
+D:\CSharp\Thesis\Thesis\obj\Debug\Thesis.pdb

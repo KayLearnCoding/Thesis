@@ -1,0 +1,10 @@
+D:\CSharp\Thesis\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\CSharp\Thesis\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\CSharp\Thesis\ConsoleApplication1\obj\Debug\getMinSumPoint.csprojResolveAssemblyReference.cache
+D:\CSharp\Thesis\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CSharp\Thesis\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\CSharp\Thesis\getMinSumPoint\obj\Debug\ConsoleApplication1.exe
+D:\CSharp\Thesis\getMinSumPoint\obj\Debug\ConsoleApplication1.pdb
+D:\CSharp\Thesis\getMinSumPoint\bin\Debug\ConsoleApplication1.exe
+D:\CSharp\Thesis\getMinSumPoint\bin\Debug\ConsoleApplication1.pdb
+D:\CSharp\Thesis\getMinSumPoint\obj\Debug\getMinSumPoint.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\CSharp\Thesis\Fishnet\bin\Debug\Fishnet.exe
+D:\CSharp\Thesis\Fishnet\bin\Debug\Fishnet.pdb
+D:\CSharp\Thesis\Fishnet\obj\Debug\Fishnet.exe
+D:\CSharp\Thesis\Fishnet\obj\Debug\Fishnet.pdb
+D:\CSharp\Thesis\Fishnet\obj\Debug\Fishnet.csprojResolveAssemblyReference.cache

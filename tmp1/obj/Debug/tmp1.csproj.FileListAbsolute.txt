@@ -1,0 +1,5 @@
+D:\CSharp\Thesis\tmp1\bin\Debug\tmp1.exe
+D:\CSharp\Thesis\tmp1\bin\Debug\tmp1.pdb
+D:\CSharp\Thesis\tmp1\obj\Debug\tmp1.csprojResolveAssemblyReference.cache
+D:\CSharp\Thesis\tmp1\obj\Debug\tmp1.exe
+D:\CSharp\Thesis\tmp1\obj\Debug\tmp1.pdb

@@ -1,0 +1,7 @@
+D:\CSharp\Thesis\MergeData\obj\Debug\MergeData.csprojResolveAssemblyReference.cache
+D:\CSharp\Thesis\MergeData\bin\Debug\MergeData.exe
+D:\CSharp\Thesis\MergeData\bin\Debug\MergeData.pdb
+D:\CSharp\Thesis\MergeData\obj\Debug\MergeData.exe
+D:\CSharp\Thesis\MergeData\obj\Debug\MergeData.pdb
+D:\CSharp\Thesis\MergeData\bin\Debug\Thesis.exe
+D:\CSharp\Thesis\MergeData\bin\Debug\Thesis.pdb

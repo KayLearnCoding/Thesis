@@ -1,0 +1,11 @@
+D:\CSharp\Thesis\P-median\bin\Debug\P-median.exe
+D:\CSharp\Thesis\P-median\bin\Debug\P-median.pdb
+D:\CSharp\Thesis\P-median\obj\Debug\P-median.exe
+D:\CSharp\Thesis\P-median\obj\Debug\P-median.pdb
+D:\CSharp\Thesis\P-median\obj\Debug\P-median.csprojResolveAssemblyReference.cache
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\P-median\bin\Debug\P-median.exe
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\P-median\bin\Debug\P-median.pdb
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\P-median\obj\Debug\P-median.csprojAssemblyReference.cache
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\P-median\obj\Debug\P-median.csproj.CoreCompileInputs.cache
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\P-median\obj\Debug\P-median.exe
+C:\Users\zhuya\OneDrive\Documents\研究生毕业论文\Code\P-median\obj\Debug\P-median.pdb

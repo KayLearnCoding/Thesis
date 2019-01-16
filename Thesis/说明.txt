@@ -1,0 +1,19 @@
+tmp				用于比较读内存和读文件哪一个快
+
+Fishnet				用于读取31天的网格需求数据，把某一个格子31天的数据写入一个新文件中
+
+getMinSumPoint			用于1-median问题解法
+
+InterpolationByMinute		用于位置索引建立方法，插值建立时间-行号对应关系
+
+MergeData			用于暂时无用，希望能做到合并出一个文件夹下的所有txt文件，且可设置GPS时间范围
+
+P-median			用于食堂选址穷举法：计算距离*权重最小的Cmn结果
+
+Sort/ReadAndSort		用于为文件按经度排序
+
+Thesis				用于Form界面，暂时无用
+
+Thiessen			类似于Fishnet
+
+TripCube			用于为轨迹建立索引
